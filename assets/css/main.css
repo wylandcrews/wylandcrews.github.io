@@ -1106,7 +1106,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -0.75rem;
 		padding-left: 0;
-		float: right;
+		float: left;
 	}
 
 		ul.actions li {
