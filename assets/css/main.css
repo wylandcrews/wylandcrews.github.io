@@ -854,7 +854,7 @@ input, select, textarea {
 		}
 
 		.icon > .label {
-			display: none;
+			display: contents;
 		}
 
 		.icon:before {
